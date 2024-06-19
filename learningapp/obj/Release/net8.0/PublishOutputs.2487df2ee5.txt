@@ -1,0 +1,7 @@
+C:\Naga\AZ-204 Prep\AZ 204 Practice1\learningapp\bin\publish\learningapp.exe
+C:\Naga\AZ-204 Prep\AZ 204 Practice1\learningapp\bin\publish\appsettings.Development.json
+C:\Naga\AZ-204 Prep\AZ 204 Practice1\learningapp\bin\publish\appsettings.json
+C:\Naga\AZ-204 Prep\AZ 204 Practice1\learningapp\bin\publish\learningapp.dll
+C:\Naga\AZ-204 Prep\AZ 204 Practice1\learningapp\bin\publish\learningapp.deps.json
+C:\Naga\AZ-204 Prep\AZ 204 Practice1\learningapp\bin\publish\learningapp.runtimeconfig.json
+C:\Naga\AZ-204 Prep\AZ 204 Practice1\learningapp\bin\publish\learningapp.pdb
